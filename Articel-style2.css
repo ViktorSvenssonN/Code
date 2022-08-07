@@ -476,6 +476,7 @@ the children (the img and the arctiel) the way we want them to look on mobile
     font-style: italic;
     letter-spacing: 0.5px;
     width: 100%;
+    font-size: 90%;
 }
 
 .grid-8-articel {
@@ -519,7 +520,7 @@ the children (the img and the arctiel) the way we want them to look on mobile
     font-style: italic;
     letter-spacing: 0.5px;
     width: 100%;
-    font-size: 88%;
+    font-size: 90%;
 }
 /* here is the start for how we want the tablet to behave if you enter the 
 webpage on it (or change the size freely on desktop) the diffrents here is that
